@@ -1,10 +1,10 @@
 <header>
-  <h1><i>HTML</i></h1>
+  <h1>HTML</h1>
 </header>
 <body>
   <p><b>HTML (Hypertext Markup Language) </b>is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display text, images and other forms of multimedia on a webpage.</p>
   <h2>How HTML Works:</h2>
-  <p>HTML (HyperText Markup Language) is a standard language used to create and structure web pages. It consists of text files with specific syntax and naming conventions that allow web browsers and servers to recognize and render them properly.<br>An HTML document begins with a <!DOCTYPE html> declaration, which tells the browser that the file is written in HTML. This declaration must appear at the very beginning of the file. The file must also be saved with a .html extension so that both the computer and the web server can recognize it as an HTML file.</p>
+  <p><b>HTML (HyperText Markup Language)</b> is a standard language used to create and structure web pages. It consists of text files with specific syntax and naming conventions that allow web browsers and servers to recognize and render them properly.<br>An HTML document begins with a <!DOCTYPE html> declaration, which tells the browser that the file is written in HTML. This declaration must appear at the very beginning of the file. The file must also be saved with a .html extension so that both the computer and the web server can recognize it as an HTML file.</p>
 <h2>Advantages of HTML:</h2>
   <ol type='1'>
     <li>It is easy to learn and use.</li>
